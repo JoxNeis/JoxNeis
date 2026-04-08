@@ -25,6 +25,7 @@ Currently shipping **[Numerix](https://github.com/JoxNeis/numerix)** — an open
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
@@ -34,22 +35,14 @@ Currently shipping **[Numerix](https://github.com/JoxNeis/numerix)** — an open
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-**Data & scientific computing**
+**Data, ML & scientific computing**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**Databases & tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 ---
 
@@ -61,16 +54,6 @@ Currently shipping **[Numerix](https://github.com/JoxNeis/numerix)** — an open
 `Python` · `NumPy` · `matplotlib` · `pandas` · `pytest`
 
 ---
-
-### 🔐 ML-IDS Research
-> Academic research on machine learning-based network intrusion detection systems. Covers adversarial attack robustness, distribution shift analysis, and evaluation metrics (accuracy, precision, recall, F1-score).
-
-`Python` · `scikit-learn` · `machine learning` · `cybersecurity`
-
----
-
-### 🌐 [Your Web Project](https://github.com/JoxNeis/)
-> Add a Laravel app, Angular project, or anything else you've shipped. Replace this section with a real project.
 
 `Laravel` · `Angular` · `MySQL` · `PHP`
 
