@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jox 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=378ADD&center=true&vCenter=true&width=435&lines=Turning+math+into+code.;Building+full-stack+apps.;Researching+ML+security.;Open+to+collaboration." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=378ADD&center=true&vCenter=true&width=435&lines=Turning+math+into+code.;Building+full-stack+apps.;Researching+ML.;Open+to+collaboration." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,11 +12,7 @@
 
 ## About me
 
-I'm a full-stack developer and researcher who builds across the whole spectrum — from low-level **C++/C#** to web apps in **Laravel & Angular**, to scientific Python.
-
-Currently shipping **[Numerix](https://github.com/JoxNeis/numerix)** — an open-source numerical methods library with animated visualizations — and researching **ML-based intrusion detection systems** covering adversarial robustness, distribution shift, and evaluation metrics. I like turning math into working software.
-
----
+I'm a full-stack developer and ML students who builds across the whole spectrum — from low-level **C++/C#** to web apps in **Laravel & Angular**, to scientific Python.
 
 ## Tech stack
 
@@ -44,29 +40,45 @@ Currently shipping **[Numerix](https://github.com/JoxNeis/numerix)** — an open
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
----
 
 ## Featured projects
 
-### 🔢 [Numerix](https://github.com/JoxNeis/numerix)
-> Open-source Python numerical methods library with a clean `src`-layout architecture. Implements root-finding solvers (bisection, etc.) with `matplotlib`-powered visualizations and live `FuncAnimation` iteration animations.
+### [UniversityHub](https://github.com/JoxNeis/UniversityHub.git)
+A university project to make a student and faculty portal, a REST API backend with MVC design patterns using PHP as backend.
+
+`PHP` · `REST` · `OOP` · `MVC`
+
+### [NetProbe](https://github.com/JoxNeis/NetProbe.git)
+A lightweight HTTP client library for PHP, and HTTP API Server tester.
+
+`HTTP` · `PHP` · `cURL` · `OOP` · `MVC`
+
+### [Numerix](https://github.com/JoxNeis/numerix)
+Open-source Python numerical methods library with a clean `src`-layout architecture. Implements root-finding, intersections, derivatives, integration, and interpolation solvers (bisection, etc.) with `matplotlib` visualization.
 
 `Python` · `NumPy` · `matplotlib` · `pandas` · `pytest`
 
----
+### [Memora](https://github.com/JoxNeis/Memora.git)
+A simple quiz app powered by JSON-formatted files to help you study for a test. Provide your JSON to an AI chatbot, download the template along with your preferred topics, then load your JSON files into the quiz—happy studying!
 
-`Laravel` · `Angular` · `MySQL` · `PHP`
+`javascript` · `html`
 
----
 
-## GitHub stats
+### [mnist-digit-classifier](https://github.com/JoxNeis/mnist-digit-classifier.git)
+An OCR model for recognizing digits using `mnist` datasets, built with `tensorflow.keras`
+
+`machine-learning` · `keras` · `tensorflow`
+
+### [customer-churn-classifier](https://github.com/JoxNeis/customer-churn-classifier.git)
+A customer churn classifier model to predict customer churn using `kaggle` datasets, built with `tensorflow.keras`
+
+`machine-learning` · `keras` · `tensorflow`
+
+### [ScholarScraper](https://github.com/JoxNeis/ScholarScraper.git)
+An academic's articles or journals search engine using selenium to scrape google scholar.
+
+`search-engine` · `selenium` · `web-scraping`
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoxNeis&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
-<p align="center">
-  Open to collaboration · Let's build something · Based in Surabaya, Indonesia 🇮🇩
+  Based in Surabaya, Indonesia 🇮🇩
 </p>
