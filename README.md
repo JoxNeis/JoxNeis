@@ -4,11 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=378ADD&center=true&vCenter=true&width=435&lines=Turning+math+into+code.;Building+full-stack+apps.;Researching+ML.;Open+to+collaboration." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  Python · PHP · Laravel · JavaScript · Angular · C++ · C# · Data Science · Surabaya, Indonesia
-</p>
 
----
+<p align="center">
+  Based in Surabaya, Indonesia 🇮🇩
+</p>
 
 ## About me
 
@@ -79,6 +78,3 @@ An academic's articles or journals search engine using selenium to scrape google
 
 `search-engine` · `selenium` · `web-scraping`
 
-<p align="center">
-  Based in Surabaya, Indonesia 🇮🇩
-</p>
